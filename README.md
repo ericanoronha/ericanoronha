@@ -14,38 +14,31 @@ Welcome to my GitHub profile page ![:)](https://portfolio.ericanoronha.repl.co/i
 
 ## Portfolio
 
-![BPS4](https://portfolio.ericanoronha.repl.co/img/bps4.png)
-[**BPS4**](https://bps4.com.br/ "BPS4")
+- [**BPS4**](https://bps4.com.br/ "BPS4")
 09/2018 *  
 Responsive | HTML | CSS | JS  
 
-![Grupo Along](https://portfolio.ericanoronha.repl.co/img/along.png)
-[**Grupo Along** ](http://grupoalong.com.br/ "Grupo Along")
+- [**Grupo Along** ](http://grupoalong.com.br/ "Grupo Along")
 07/2018 *  
 Responsive | HTML | CSS | JS  
 
-![Jardim Park](https://portfolio.ericanoronha.repl.co/img/jardimpark.png)
-[**Jardim Park**](https://jardimpark.com.br/ "Jardim Park")
+- [**Jardim Park**](https://jardimpark.com.br/ "Jardim Park")
 07/2018 *  
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
-![Prontobaby](https://portfolio.ericanoronha.repl.co/img/prontobaby.png)
-[**Prontobaby**](http://prontobaby.com.br/ "Prontobaby")
+- [**Prontobaby**](http://prontobaby.com.br/ "Prontobaby")
 03/2018 *  
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
-![DMK](https://portfolio.ericanoronha.repl.co/img/dmk.png)
-[**DMK**](http://dmk.eco.br/ "DMK") 
+- [**DMK**](http://dmk.eco.br/ "DMK") 
 01/2018 *  
- Responsive | HTML | CSS | JS 
+Responsive | HTML | CSS | JS 
 
-![JR Barcode](https://portfolio.ericanoronha.repl.co/img/jrbarcode.png)
-[**JR Barcode**](http://www.jrbarcode.com.br/ "JR Barcode") 
+- [**JR Barcode**](http://www.jrbarcode.com.br/ "JR Barcode") 
 01/2018 *  
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
-![Atrevo](https://portfolio.ericanoronha.repl.co/img/atrevo.png)
-[**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação")
+- [**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação")
 12/2017 *
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
