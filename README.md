@@ -39,7 +39,7 @@ Responsive | HTML | CSS | JS
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
 - [**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação")
-12/2017 *
+12/2017 * 
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
 ** developed during internship at [Atrevo](https://atrevo.design/ "Atrevo Comunicação e Design")
