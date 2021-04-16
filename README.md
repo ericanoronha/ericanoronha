@@ -2,9 +2,9 @@
 I'm **Erica Noronha**, a Rio de Janeiro based front-end developer. 
 Currently on my final year of college, where I go to for Computer Information Systems. I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
 
-Welcome to my GitHub profile page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
+Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
-> [My social media links](https://linktr.ee/ericanoronha/) - [My LinkedIn profile page](https://www.linkedin.com/in/ericanoronha/)
+> [Social media links](https://linktr.ee/ericanoronha/) - [LinkedIn](https://www.linkedin.com/in/ericanoronha/)
 
 ## Courses
 
@@ -35,11 +35,11 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 Responsive | HTML | CSS | JS 
 
 - [**JR Barcode**](http://www.jrbarcode.com.br/ "JR Barcode") 
-01/2018 *  
+01/2018 *                    
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
-- [**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação") 
-12/2017 * 
+- [**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação")
+12/2017 *                       
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
 ** developed during internship at [Atrevo](https://atrevo.design/ "Atrevo Comunicação e Design")
@@ -51,4 +51,4 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 - [**PHPWomanBR's** Install fest](https://www.facebook.com/permalink.php?story_fbid=517175788724118&id=308635306244835 "Installfest **PHPWomen**") | 08/29/2018
 - [ Estação Hack from **Facebook** by Mastertech](https://estacaohacknaestrada.mastertech.com.br/ "Estação Hack From Facebook na Estrada by Mastertech") | 05/31/2019
 - [**Programaria**  Summit Online 2020](https://programariasummit.4.events/#/ "Programaria Summit Online 2020") | 12/10/2020
-- [**Potências Negras**  Summit](https://potenciasnegras.com.br/ "Potências Negras Summit") | 12/10/2020
+- [**Potências Negras**  Summit](https://potenciasnegras.com.br/ "Potências Negras Summit") | 03/30/2021
