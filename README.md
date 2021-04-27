@@ -1,6 +1,6 @@
 # Hello!
-I'm **Erica Noronha**, a Rio de Janeiro based front-end developer. 
-Currently on my final year of college, where I go to for Computer Information Systems. I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
+I'm **Erica Noronha**, a Brazilian Rio de Janeiro based front-end developer. 
+Currently on my final year of college, where I go to for Information Systems. I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
 
 Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
@@ -8,9 +8,10 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
 
 ## Courses
 
-- [**Educative**](https://www.educative.io/profile/view/4604416810811392 "Visit my profile on Educative")
-- [**Codecademy**](https://www.codecademy.com/profiles/ericanoronha "Visit my profile on Codecademy")
-- [**Alura**](https://cursos.alura.com.br/user/erica-noronha "Visit my profile on Alura")
+- [**Educative**](https://www.educative.io/profile/view/4604416810811392 "Check out my profile on Educative")
+- [**Rocketseat**](https://app.rocketseat.com.br/me/ericanoronha "Check out my profile on Rocketseat")
+- [**Codecademy**](https://www.codecademy.com/profiles/ericanoronha "Check out my profile on Codecademy")
+- [**Alura**](https://cursos.alura.com.br/user/erica-noronha "Check out my profile on Alura")
 
 ## Portfolio
 
@@ -52,3 +53,4 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 - [ Estação Hack from **Facebook** by Mastertech](https://estacaohacknaestrada.mastertech.com.br/ "Estação Hack From Facebook na Estrada by Mastertech") | 05/31/2019
 - [**Programaria**  Summit Online 2020](https://programariasummit.4.events/#/ "Programaria Summit Online 2020") | 12/10/2020
 - [**Potências Negras**  Summit](https://potenciasnegras.com.br/ "Potências Negras Summit") | 03/30/2021
+- [**Codecon** ](https://codecon.dev/ "code<con>") | 04/21/2021
