@@ -1,10 +1,14 @@
+
 # Hello!
 I'm **Erica Noronha**, a Brazilian Rio de Janeiro based front-end developer. 
-Currently on my final year of college, where I go to for Information Systems. I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
+Currently on my final year of college, where I go to for Information Systems. You can read more about my final project [here](https://github.com/ericanoronha/TCC). I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
 
 Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
 > [Social media links](https://linktr.ee/ericanoronha/) - [LinkedIn](https://www.linkedin.com/in/ericanoronha/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericanoronha&show_icons=true&theme=cobalt)
+
 
 ## Courses
 
@@ -12,6 +16,14 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
 - [**Rocketseat**](https://app.rocketseat.com.br/me/ericanoronha "Check out my profile on Rocketseat")
 - [**Codecademy**](https://www.codecademy.com/profiles/ericanoronha "Check out my profile on Codecademy")
 - [**Alura**](https://cursos.alura.com.br/user/erica-noronha "Check out my profile on Alura")
+
+Others courses I took I usually upload the certificates on my LinkedIn page :)
+
+## Currently studying
+- French ~~(aiming to study a language but not a programming one, just as a spare time activity)~~
+- Angular 
+- JavaScript
+- Bootcamp Start Tech by Gama Academy
 
 ## Portfolio
 
