@@ -7,7 +7,13 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
 
 > [Social media links](https://linktr.ee/ericanoronha/) - [LinkedIn](https://www.linkedin.com/in/ericanoronha/) - [Portfolio](https://ericanoronha.github.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericanoronha&show_icons=true&theme=cobalt)
+<div>
+  <br>
+  <a href="https://github.com/ericanoronha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericanoronha&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericanoronha&layout=compact&langs_count=16&theme=cobalt">
+  </a>
+</div>
 
 
 ## Courses
