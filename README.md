@@ -1,11 +1,11 @@
 
 # Hello!
-I'm **Erica Noronha**, a Brazilian Rio de Janeiro based front-end developer. 
+I'm **Erica Noronha**, a Brazilian front-end developer based in Rio de Janeiro. 
 Currently on my final year of college, where I go to for Information Systems. You can read more about my final project [here](https://github.com/ericanoronha/TCC). I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
 
 Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
-> [Social media links](https://linktr.ee/ericanoronha/) - [LinkedIn](https://www.linkedin.com/in/ericanoronha/)
+> [Social media links](https://linktr.ee/ericanoronha/) - [LinkedIn](https://www.linkedin.com/in/ericanoronha/) - [Portfolio](https://ericanoronha.github.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericanoronha&show_icons=true&theme=cobalt)
 
