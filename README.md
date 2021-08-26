@@ -1,7 +1,8 @@
 
+
 # Hello!
 I'm **Erica Noronha**, a Brazilian front-end developer based in Rio de Janeiro. 
-Currently on my final year of college, where I go to for Information Systems. You can read more about my final project [here](https://github.com/ericanoronha/TCC). I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community.
+Currently on my final year of college, where I go to for Information Systems. You can read more about my final project [here](https://github.com/ericanoronha/TCC). I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community. For the last 4 years I have been getting experienced in many technologies such as JavaScript frameworks and libs, WordPress CMS, VTEX SaaS and more yet I'm always open to learn new stuff. :relaxed:
 
 Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
@@ -15,7 +16,7 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
   </a>
 </div>
 
-
+<!--
 ## Courses
 
 - [**Educative**](https://www.educative.io/profile/view/4604416810811392 "Check out my profile on Educative")
@@ -24,12 +25,12 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
 - [**Alura**](https://cursos.alura.com.br/user/erica-noronha "Check out my profile on Alura")
 
 Others courses I took I usually upload the certificates on my LinkedIn page :)
-
+-->
 ## Currently studying
-- French ~~(aiming to study a language but not a programming one, just as a spare time activity)~~
-- Angular 
+- Angular +8
 - JavaScript
-- Bootcamp Start Tech by Gama Academy
+- React JS
+- French *(as a spare time activity)*
 
 ## Portfolio
 
@@ -40,10 +41,6 @@ Responsive | HTML | CSS | JS
 - [**Grupo Along** ](http://grupoalong.com.br/ "Grupo Along")
 07/2018 *  
 Responsive | HTML | CSS | JS  
-
-- [**Jardim Park**](https://jardimpark.com.br/ "Jardim Park")
-07/2018 *  
-Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
 - [**Prontobaby**](http://prontobaby.com.br/ "Prontobaby")
 03/2018 *  
@@ -64,7 +61,7 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 ** developed during internship at [Atrevo](https://atrevo.design/ "Atrevo Comunicação e Design")
 
 
-## Events
+## Events I have attended to
 - [**Django Girls** Niteroi](https://djangogirls.org/niteroi3/ "Django Girls Niteroi") | 05/19/2018
 - [**Womakerscode's** Front-end Study](https://www.meetup.com/WoMakersCode/events/253326574/ "Front-end Study - Womakerscode") | 08/25/2018
 - [**PHPWomanBR's** Install fest](https://www.facebook.com/permalink.php?story_fbid=517175788724118&id=308635306244835 "Installfest **PHPWomen**") | 08/29/2018
@@ -72,3 +69,4 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 - [**Programaria**  Summit Online 2020](https://programariasummit.4.events/#/ "Programaria Summit Online 2020") | 12/10/2020
 - [**Potências Negras**  Summit](https://potenciasnegras.com.br/ "Potências Negras Summit") | 03/30/2021
 - [**Codecon** ](https://codecon.dev/ "code<con>") | 04/21/2021
+- [**Potências Negras Tec**](https://potenciasnegras.com.br/ "Potências Negras Summit") | 08/14/2021
