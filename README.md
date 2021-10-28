@@ -59,4 +59,4 @@ Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP
 - [**Potências Negras**  Summit](https://potenciasnegras.com.br/ "Potências Negras Summit") | 03/30/2021
 - [**Codecon** ](https://codecon.dev/ "code<con>") | 04/21/2021
 - [**Potências Negras Tec**](https://potenciasnegras.com.br/ "Potências Negras Summit") | 08/14/2021
-- [**Programaria**  Summit Online 2021](https://www.programaria.org/programariasummit2021/ "Programaria Summit Online 2021") | 09/18/2020
+- [**Programaria**  Summit Online 2021](https://www.programaria.org/programariasummit2021/ "Programaria Summit Online 2021") | 09/18/2021
