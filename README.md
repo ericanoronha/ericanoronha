@@ -1,8 +1,7 @@
 
 
 # Hello!
-I'm **Erica Noronha**, a Brazilian front-end developer based in Rio de Janeiro. 
-Currently on my final year of college, where I go to for Information Systems. You can read more about my final project [here](https://github.com/ericanoronha/TCC). I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community. For the last 4 years I have been getting experienced in many technologies such as JavaScript frameworks and libs, WordPress CMS, VTEX SaaS and more yet I'm always open to learn new stuff. :relaxed:
+I'm **Erica Noronha**, a Brazilian front-end developer based in Rio de Janeiro. Bachelor of Information Systems undergraduate student. I'm keen on supporting diversity initiatives and attending to events that help to create a more inclusive community. For the last 4 years I have been getting experienced in technologies such as JavaScript (vanilla, jQuery, Angular, currently React and NextJS), WordPress CMS, VTEX SaaS. Furthermore I'm always open to learn new stuff. :relaxed:
 
 Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gif)  
 
@@ -16,38 +15,25 @@ Welcome to my GitHub page ![:)](https://portfolio.ericanoronha.repl.co/img/s2.gi
   </a>
 </div>
 
-## Currently studying
-- Angular +8
-- JavaScript
-- French *(as a spare time activity)*
-
 ## Portfolio
 
 - [**BPS4**](https://bps4.com.br/ "BPS4")
-09/2018 *  
+09/2018     
 Responsive | HTML | CSS | JS  
 
 - [**Grupo Along** ](http://grupoalong.com.br/ "Grupo Along")
-07/2018 *  
+07/2018     
 Responsive | HTML | CSS | JS  
 
 - [**Prontobaby**](http://prontobaby.com.br/ "Prontobaby")
-03/2018 *  
+03/2018     
 Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
 
 - [**DMK**](http://dmk.eco.br/ "DMK") 
-01/2018 *  
+01/2018     
 Responsive | HTML | CSS | JS 
 
-- [**JR Barcode**](http://www.jrbarcode.com.br/ "JR Barcode") 
-01/2018 *                    
-Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
-
-- [**Atrevo Design e Comunicação**](https://atrevo.design/ "Atrevo Design e Comunicação")
-12/2017 *                       
-Exclusive WordPress theme | Responsive | HTML | CSS | JS | PHP 
-
-** developed during internship at [Atrevo](https://atrevo.design/ "Atrevo Comunicação e Design")
+The projects above were developed during internship at [Atrevo](https://atrevo.design/ "Atrevo Comunicação e Design")
 
 
 ## Events I have attended to
